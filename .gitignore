@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+data/downloads/*
+data/slides/*
+!data/downloads/.gitkeep
+!data/slides/.gitkeep
+logs
+*.log
